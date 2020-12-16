@@ -1,2 +1,3 @@
-# ML_from_scratch
-Implementing some algorithms using NumPy and pandas to understand how they work.
+# Machine Learning from Scratch
+
+There's only this KNN stuff for now. It's pathetically slow but predicts well.
